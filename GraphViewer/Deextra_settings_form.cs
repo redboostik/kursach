@@ -83,11 +83,15 @@ namespace GraphViewer
 
             while (MyData.Deextra_set.Count() > 0)
             {
-                tup = MyData.Deextra_set.First();
+                tup = MyData.Deextra_set.Min();
                 MyData.prevCorner[tup.Item2.Item2] = tup.Item2.Item1;
                 int start = tup.Item2.Item2;
+                if(MyData.distance[start] <= tup.Item1)
+                {
+                    MyData.Deextra_set.Remove(tup);
+                    continue;
+                }
                 MyData.distance[start] = tup.Item1;
-
                 for (int i = 0; i < MyData.count_rebr[start]; i++)
                 {
 

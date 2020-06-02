@@ -12,3 +12,17 @@ C:\Users\User\source\repos\GraphViewer\GraphViewer\obj\Debug\GraphViewer.Draw_fo
 C:\Users\User\source\repos\GraphViewer\GraphViewer\obj\Debug\GraphViewer.Settings_form.resources
 C:\Users\User\source\repos\GraphViewer\GraphViewer\obj\Debug\GraphViewer.form_list_of_rebrs.resources
 C:\Users\User\source\repos\GraphViewer\GraphViewer\obj\Debug\GraphViewer.Deextra_settings_form.resources
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\bin\Debug\GraphViewer.exe.config
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\bin\Debug\GraphViewer.exe
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\bin\Debug\GraphViewer.pdb
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\obj\Debug\GraphViewer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\obj\Debug\GraphViewer.Chose_form.resources
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\obj\Debug\GraphViewer.Draw_form.resources
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\obj\Debug\GraphViewer.Settings_form.resources
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\obj\Debug\GraphViewer.form_list_of_rebrs.resources
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\obj\Debug\GraphViewer.Deextra_settings_form.resources
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\obj\Debug\GraphViewer.Properties.Resources.resources
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\obj\Debug\GraphViewer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\obj\Debug\GraphViewer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\obj\Debug\GraphViewer.exe
+C:\Users\User\source\repos\GraphViewer\kursach\GraphViewer\obj\Debug\GraphViewer.pdb

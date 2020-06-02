@@ -70,7 +70,7 @@
             this.button_start_Deextra.Name = "button_start_Deextra";
             this.button_start_Deextra.Size = new System.Drawing.Size(167, 23);
             this.button_start_Deextra.TabIndex = 3;
-            this.button_start_Deextra.Text = "Алгоритм Деекстры";
+            this.button_start_Deextra.Text = "Алгоритм Дейкстры";
             this.button_start_Deextra.UseVisualStyleBackColor = true;
             this.button_start_Deextra.Click += new System.EventHandler(this.button_start_Deextra_Click);
             // 
